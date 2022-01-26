@@ -1,0 +1,8 @@
+**/ny_taxi_data/*
+**/data/*
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+.ipynb_checkpoints
+
